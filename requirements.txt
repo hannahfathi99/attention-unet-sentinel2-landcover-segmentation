@@ -1,1 +1,10 @@
-
+torch
+torchvision
+numpy
+rasterio
+scikit-learn
+opencv-python
+matplotlib
+tqdm
+albumentations
+pandas
