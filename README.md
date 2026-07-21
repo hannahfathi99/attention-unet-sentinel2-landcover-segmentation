@@ -346,7 +346,7 @@ To ensure reproducibility:
 ## Installation
 
 ```bash
-git clone https://github.com/hannahfathi99/attention-unet-sentinel2-landcover-segmentation.git
+git clone https://github.com/hannah-fathi/attention-unet-sentinel2-landcover-segmentation.git
 cd attention-unet-sentinel2-landcover-segmentation
 pip install -r requirements.txt
 ```
